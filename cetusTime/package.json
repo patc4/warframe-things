@@ -1,0 +1,22 @@
+{
+  "name": "cetus-time-checker",
+  "version": "1.0.0",
+  "description": "let's you know when cetus changes from day to night or back again.",
+  "main": "warframeStatus.js",
+  "bin": "warframeStatus.js",
+  "scripts": {
+    "1": "node warframeStatus.js",
+    "build": "webpack"
+  },
+  "author": "patc4",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^6.0.0",
+    "nodejs": "0.0.0"
+  },
+  "devDependencies": {
+    "electron": "^7.1.7",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
