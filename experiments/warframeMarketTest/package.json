@@ -1,0 +1,17 @@
+{
+  "name": "warframemarkettest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "1": "electron ."
+  },
+  "author": "patc4",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
